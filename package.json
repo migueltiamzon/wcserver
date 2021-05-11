@@ -1,0 +1,18 @@
+{
+  "name": "webapp_project",
+  "version": "1.0.0",
+  "description": "A web application that uses a database using a MEVN",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Miguel",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bootstrap": "^5.0.0",
+    "vue-axios": "^3.2.4",
+    "vue-router": "^3.5.1"
+  },
+  "devDependencies": {}
+}
